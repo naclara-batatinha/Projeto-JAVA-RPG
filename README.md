@@ -3,21 +3,23 @@
     
 ## Instrodução
  
-     Role-Playing Game, também conhecido como RPG, é um tipo de jogo em que os jogadores assumem papéis de personagens 
-     e criam narrativas colaborativamente. O progresso de um jogo se dá de acordo com um sistema de regras predeterminado, 
-     dentro das quais os jogadores podem improvisar livremente. 
+     Role-Playing Game, também conhecido como RPG, é um tipo de jogo em que os jogadores assumem papéis 
+     de personagens e criam narrativas colaborativamente. O progresso de um jogo se dá de acordo com 
+     um sistema de regras predeterminado, dentro das quais os jogadores podem improvisar livremente. 
     
-     Jogos de RPG japoneses (comumente conhecidos como JRPG) são jogos que possuem características distintas dos RPGs 
-     ocidentais. O desenvolvimento de jogos do gênero RPG é fortemente influenciado por RPGs de mesa, como Dungeons 
-     and Dragons. Antes da disseminação do Famicom ou de outros consoles de jogos, os jogos de computador eram bastante 
-     populares no Japão. Durante a década de 1980, os RPGs japoneses começaram a aparecer no mercado. 
+     Jogos de RPG japoneses (comumente conhecidos como JRPG) são jogos que possuem características 
+     distintas dos RPGs ocidentais. O desenvolvimento de jogos do gênero RPG é fortemente influenciado 
+     por RPGs de mesa, como Dungeons and Dragons. Antes da disseminação do Famicom ou de outros consoles 
+     de jogos, os jogos de computador eram bastante populares no Japão. Durante a década de 1980, os 
+     RPGs japoneses começaram a aparecer no mercado. 
     
-     Em 1985, Yuji Hori, um designer de jogos japonês, criou um jogo chamado Dragon Quest que pegou pedaços de vários 
-     RPGs como Wizardry, Ultima e Black Onyx. A coisa revolucionária que Dragon Quest fez foi tornar o gênero RPG mais 
-     acessível aos jogadores. Dragon Quest é conhecido como um RPG leve porque não exige que o jogador desenhe seus 
-     próprios mapas, memorize nomes específicos de feitiços ou comandos. Dragon Quest também simplificou as estatísticas 
-     implementando HP, MP, EXP e níveis em vez de sistemas complexos vistos em RPGs anteriores. Dragon Quest não exigia 
-     que o jogador aprendesse muitas regras complicadas, mas oferecia uma história intrigante com jogabilidade intuitiva.
+     Em 1985, Yuji Hori, um designer de jogos japonês, criou um jogo chamado Dragon Quest que pegou 
+     pedaços de vários RPGs como Wizardry, Ultima e Black Onyx. A coisa revolucionária que Dragon Quest 
+     fez foi tornar o gênero RPG mais acessível aos jogadores. Dragon Quest é conhecido como um RPG leve 
+     porque não exige que o jogador desenhe seus próprios mapas, memorize nomes específicos de feitiços 
+     ou comandos. Dragon Quest também simplificou as estatísticas implementando HP, MP, EXP e níveis em 
+     vez de sistemas complexos vistos em RPGs anteriores. Dragon Quest não exigia que o jogador aprendesse 
+     muitas regras complicadas, mas oferecia uma história intrigante com jogabilidade intuitiva.
 
 
 ## Projeto 
